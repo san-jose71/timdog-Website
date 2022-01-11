@@ -1,2 +1,2 @@
 # timdog-Website
-This website have been developed with HTML, CSS Bootstrap.
+This website has been developed with HTML, CSS and Bootstrap.
